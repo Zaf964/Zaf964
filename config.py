@@ -15,6 +15,7 @@ BARD__Secure_1PSIDTS ="sidts-CjIBPu3jIdU-PB38YBTlcaiqx04lK0whlEXLqHRtIb5r2alVnp5
 
 M_ID='1576462323'
 ST='app-h2h?key=pattystats&'
+TS='?key=pattystats2&tz=WAT&division=leagues&date='
 
 
 
