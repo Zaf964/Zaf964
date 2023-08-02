@@ -3,18 +3,6 @@ import json
 import csv
 import config
 from datetime import datetime
-"""ho to use my class:
-    1- i need to define the match_id variable value
-    2- Create an instance of the FootyStats class by passing the match_id to its constructor.
-    - footy_stats = FootyStats(match_id)
-    3- Call the get_everything() method on the footy_stats instance.
-        This will fetch the data, process it, and store the statistics in JSON and CSV files.
-     - footy_stats.get_everything()
-    
-"""
-# match_id = "your_match_id_here"  # Replace "your_match_id_here" with the actual match ID
-# footy_stats = FootyStats(match_id)
-# footy_stats.get_everything()
 id = config.ST
 class FootyStats:
     referee_stats_found = False
